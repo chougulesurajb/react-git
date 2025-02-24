@@ -1,2 +1,2 @@
 // This is new file with key
-// KEY:
+// KEY:removed key
